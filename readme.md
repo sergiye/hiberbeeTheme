@@ -8,6 +8,11 @@
 
 *Hiberbee Theme is a Visual Studio (2022) extension with Hiberbee dark theme*
 
+Vivid, color-intensive dark theme for Visual Studio IDE with consolidated color code for all programming languages.
+Features:
+Unique color identity map for all language elements and constructs
+Design is available and maintained in Figma [template](https://www.figma.com/file/2oyhOnKUdLZCDQEkH2klNT/Hiberbee-Theme) color palette
+
 ----
 
 ![Ukrainian Flag](assets/ukraine_flag_bar.png)
