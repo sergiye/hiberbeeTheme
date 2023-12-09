@@ -2,9 +2,9 @@
 
 [![Stars](https://img.shields.io/github/stars/sergiye/hiberbeeTheme?style=flat-square)](https://github.com/sergiye/hiberbeeTheme/stargazers)
 [![Fork](https://img.shields.io/github/forks/sergiye/hiberbeeTheme?style=flat-square)](https://github.com/sergiye/hiberbeeTheme/fork)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/sergiye/hiberbeeTheme?style=plastic)
-![GitHub all releases](https://img.shields.io/github/downloads/sergiye/hiberbeeTheme/total?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/sergiye/hiberbeeTheme?style=plastic)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/sergiye/hiberbeeTheme?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/sergiye/hiberbeeTheme/total?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/sergiye/hiberbeeTheme?style=flat-square)
 
 *Hiberbee Theme is a Visual Studio (2022) extension with Hiberbee dark theme*
 
