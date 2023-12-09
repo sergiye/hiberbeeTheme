@@ -36,10 +36,24 @@ The latest stable version can be downloaded from the [releases](https://github.c
 
 ### How To Use
 
-To use:
-  * Download the latest version from releases (or Visual Studio marketplace)
-  * Install into Visual Studio
-  * Enjoy
+It's very simple:
+ - Download the latest version of extension from releases (or Visual Studio marketplace)(.vsix file).
+ - Install the extension for your Visual Studio 2022.
+ - Follow: **Tools > Theme > Hiberbee**.
+ - Enjoy
+
+That's it, the installation is complete!
+
+
+### Font
+
+You may have noticed that the font does not match the original one. To solve this issue, you need to [download](https://www.jetbrains.com/lp/mono/) and install fonts from the official JetBrains website.
+
+Also, after choosing a theme, follow the path:
+
+**Tools > Options > Environment > Fonts and Colors**.
+
+In the Font field, select one of the JetBrains fonts (I highly recommend JetBrains Mono)
 
 ----
 
@@ -50,6 +64,13 @@ This is free software: you can redistribute it under the terms of the GNU Genera
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License  along with this program.  If not, see http://www.gnu.org/licenses/.
+
+
+## Conclusion
+
+Initially, I did this theme extension for myself and as an experiment and did not really count on any result, but now I hope that I have enough time and energy to support and develop it.
+
+Thank you for installing and have a nice day!
 
 
 ## Donate
