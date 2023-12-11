@@ -1134,7 +1134,7 @@
 		{
 			"scope": "entity.name.namespace",
 			"settings": {
-				"foreground": "#5EFBEF"
+				"foreground": "#FFC66D"
 			}
 		},
 		{
@@ -1193,13 +1193,19 @@
 		{
 			"scope": "entity.name.type.namespace",
 			"settings": {
-				"foreground": "#5EFBEF"
+				"foreground": "#FFC66D"
 			}
 		},
 		{
 			"scope": "support.class, entity.name.type.class",
 			"settings": {
 				"foreground": "#5EFBEF"
+			}
+		},
+		{
+			"scope": "support.struct, entity.name.type.struct",
+			"settings": {
+				"foreground": "#FF8C00"
 			}
 		},
 		{
