@@ -1209,6 +1209,42 @@
 			}
 		},
 		{
+			"scope": "support.enum, entity.name.type.enum",
+			"settings": {
+				"foreground": "#FF8C00"
+			}
+		},
+		{
+			"scope": "entity.name.variable.enum-member.cs",
+			"settings": {
+				"foreground": "#F25022"
+			}
+		},
+		{
+			"scope": "entity.name.variable.parameter.cs",
+			"settings": {
+				"foreground": "#DCC56C"
+			}
+		},
+		{
+			"scope": "entity.name.variable.field.cs",
+			"settings": {
+				"foreground": "#409CFF"
+			}
+		},
+		{
+			"scope": "entity.name.variable.property.cs",
+			"settings": {
+				"foreground": "#7C79F6"
+			}
+		},
+		{
+			"scope": "variable.other.object.property.cs",
+			"settings": {
+				"foreground": "#7C79F6"
+			}
+		},
+		{
 			"scope": "entity.name.class.identifier.namespace.type",
 			"settings": {
 				"foreground": "#5EFBEF"
