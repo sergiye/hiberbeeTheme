@@ -2,8 +2,6 @@
 
 [![Stars](https://img.shields.io/github/stars/sergiye/hiberbeeTheme?style=flat-square)](https://github.com/sergiye/hiberbeeTheme/stargazers)
 [![Fork](https://img.shields.io/github/forks/sergiye/hiberbeeTheme?style=flat-square)](https://github.com/sergiye/hiberbeeTheme/fork)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/sergiye/hiberbeeTheme?style=flat-square)
-![GitHub all releases](https://img.shields.io/github/downloads/sergiye/hiberbeeTheme/total?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sergiye/hiberbeeTheme?style=flat-square)
 
 *Hiberbee Theme is a Visual Studio (2022) extension with Hiberbee dark theme*
@@ -26,8 +24,7 @@ Support the Armed Forces of Ukraine and People Affected by Russia’s Aggression
 
 ## Download Latest Version
 
-The latest stable version can be downloaded from the [releases](https://github.com/sergiye/hiberbeeTheme/releases) page, or get the newer one directly from:
-[Latest Version](https://github.com/sergiye/hiberbeeTheme/releases/latest)
+The latest stable version can be downloaded from the VisualStudio [marketplace](https://marketplace.visualstudio.com/items?itemName=SergiyEgoshyn.HiberbeeTheme) page, or get the newest one manually directly from this sources.
 
 
 # Build
