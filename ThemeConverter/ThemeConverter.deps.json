@@ -1,0 +1,82 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ThemeConverter/0.1.0": {
+        "dependencies": {
+          "Microsoft.VisualStudioEng.MicroBuild.Core": "0.4.1",
+          "Mono.Options": "6.12.0.148",
+          "Newtonsoft.Json": "13.0.1",
+          "System.CodeDom": "5.0.0"
+        },
+        "runtime": {
+          "ThemeConverter.dll": {}
+        }
+      },
+      "Microsoft.VisualStudioEng.MicroBuild.Core/0.4.1": {},
+      "Mono.Options/6.12.0.148": {
+        "runtime": {
+          "lib/netstandard2.0/Mono.Options.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.12.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "System.CodeDom/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.CodeDom.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThemeConverter/0.1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudioEng.MicroBuild.Core/0.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2DhYPxdDyPu0ggmMmDjFBjdlErvA/DbYRf6OhtmCaUCskgMvqfVofUAKXkFpAyu/CshNKcyiG+DX0dPIPTqhLw==",
+      "path": "microsoft.visualstudioeng.microbuild.core/0.4.1",
+      "hashPath": "microsoft.visualstudioeng.microbuild.core.0.4.1.nupkg.sha512"
+    },
+    "Mono.Options/6.12.0.148": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kf6bdXnP4IzqIp4bJ1YKPI3/PAcOV6qm4mznChJ3c92zHQUXTWJSp0+h+Cfcii0O6m/EgW7KA+tbCiB2al0DDA==",
+      "path": "mono.options/6.12.0.148",
+      "hashPath": "mono.options.6.12.0.148.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "System.CodeDom/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JPJArwA1kdj8qDAkY2XGjSWoYnqiM7q/3yRNkt6n28Mnn95MuEGkZXUbPBf7qc3IjwrGY5ttQon7yqHZyQJmOQ==",
+      "path": "system.codedom/5.0.0",
+      "hashPath": "system.codedom.5.0.0.nupkg.sha512"
+    }
+  }
+}
