@@ -47,6 +47,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Hiberbee.json" />
+    <None Include="HiberbeeLight.json" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
@@ -57,6 +59,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Properties\Hiberbee.pkgdef">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Properties\HiberbeeLight.pkgdef">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Properties\icon.png">
