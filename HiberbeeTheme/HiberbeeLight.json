@@ -410,7 +410,7 @@
     {
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#FFC66D"
+        "foreground": "#ffc66d"
       }
     },
     {
@@ -464,7 +464,7 @@
     {
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#FFC66D"
+        "foreground": "#ffc66d"
       }
     },
     {
@@ -494,7 +494,7 @@
     {
       "scope": "entity.name.variable.parameter.cs",
       "settings": {
-        "foreground": "#dcc56c"
+        "foreground": "#e2eaff"
       }
     },
     {
