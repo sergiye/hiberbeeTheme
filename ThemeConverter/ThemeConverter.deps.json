@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "ThemeConverter/0.1.0": {
         "dependencies": {
+          "Costura.Fody": "4.1.0",
+          "Fody": "6.8.0",
           "Microsoft.VisualStudioEng.MicroBuild.Core": "0.4.1",
           "Mono.Options": "6.12.0.148",
           "Newtonsoft.Json": "13.0.1",
@@ -17,6 +19,12 @@
           "ThemeConverter.dll": {}
         }
       },
+      "Costura.Fody/4.1.0": {
+        "dependencies": {
+          "Fody": "6.8.0"
+        }
+      },
+      "Fody/6.8.0": {},
       "Microsoft.VisualStudioEng.MicroBuild.Core/0.4.1": {},
       "Mono.Options/6.12.0.148": {
         "runtime": {
@@ -49,6 +57,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Costura.Fody/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MkW5aqhqNvuP6MiaaD5Yx8efXv+5ucsumRx+Nsn5b+PA4RnaxJLtXhGkm1N+Hi7sjkSlL8kl1klSS/7v2DxZHw==",
+      "path": "costura.fody/4.1.0",
+      "hashPath": "costura.fody.4.1.0.nupkg.sha512"
+    },
+    "Fody/6.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hfZ/f8Mezt8aTkgv9nsvFdYoQ809/AqwsJlOGOPYIfBcG2aAIG3v3ex9d8ZqQuFYyMoucjRg4eKy3VleeGodKQ==",
+      "path": "fody/6.8.0",
+      "hashPath": "fody.6.8.0.nupkg.sha512"
     },
     "Microsoft.VisualStudioEng.MicroBuild.Core/0.4.1": {
       "type": "package",
