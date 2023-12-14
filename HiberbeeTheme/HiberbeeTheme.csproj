@@ -74,8 +74,8 @@
     <PreBuildEvent>@echo started in %25CD%25
 
 cd ..\..\ThemeConverter
-ThemeConverter.exe -i ..\HiberbeeTheme\Hiberbee.json -o ..\HiberbeeTheme\Properties\
-ThemeConverter.exe -i ..\HiberbeeTheme\HiberbeeLight.json -o ..\HiberbeeTheme\Properties\
+ThemeConverterP.exe -i ..\HiberbeeTheme\Hiberbee.json -o ..\HiberbeeTheme\Properties\
+ThemeConverterP.exe -i ..\HiberbeeTheme\HiberbeeLight.json -o ..\HiberbeeTheme\Properties\
 </PreBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
