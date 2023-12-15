@@ -1,5 +1,9 @@
 # Hiberbee Theme
 
+[![Version](https://vsmarketplacebadges.dev/version/SergiyEgoshyn.HiberbeeTheme.svg
+)](https://marketplace.visualstudio.com/items?itemName=SergiyEgoshyn.HiberbeeTheme)
+[![Installs](https://vsmarketplacebadges.dev/installs/SergiyEgoshyn.HiberbeeTheme.svg)](https://marketplace.visualstudio.com/items?itemName=SergiyEgoshyn.HiberbeeTheme)
+[![Rating](https://vsmarketplacebadges.dev/rating-short/SergiyEgoshyn.HiberbeeTheme.svg)](https://marketplace.visualstudio.com/items?itemName=SergiyEgoshyn.HiberbeeTheme)
 [![Stars](https://img.shields.io/github/stars/sergiye/hiberbeeTheme?style=flat-square)](https://github.com/sergiye/hiberbeeTheme/stargazers)
 [![Fork](https://img.shields.io/github/forks/sergiye/hiberbeeTheme?style=flat-square)](https://github.com/sergiye/hiberbeeTheme/fork)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sergiye/hiberbeeTheme?style=flat-square)
