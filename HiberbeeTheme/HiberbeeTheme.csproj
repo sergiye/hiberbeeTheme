@@ -48,7 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Hiberbee.json" />
-    <None Include="HiberbeeLight.json" />
+    <None Include="Hiberbee+.json" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
@@ -61,7 +61,7 @@
     <Content Include="Properties\Hiberbee.pkgdef">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Properties\HiberbeeLight.pkgdef">
+    <Content Include="Properties\Hiberbee+.pkgdef">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Properties\icon.png">
@@ -75,7 +75,7 @@
 
 cd ..\..\ThemeConverter
 ThemeConverterP.exe -i ..\HiberbeeTheme\Hiberbee.json -o ..\HiberbeeTheme\Properties\
-ThemeConverterP.exe -i ..\HiberbeeTheme\HiberbeeLight.json -o ..\HiberbeeTheme\Properties\
+ThemeConverterP.exe -i ..\HiberbeeTheme\Hiberbee+.json -o ..\HiberbeeTheme\Properties\
 </PreBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
