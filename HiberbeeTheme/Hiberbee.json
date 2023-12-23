@@ -474,6 +474,18 @@
       }
     },
     {
+      "scope": "support.interface, entity.name.type.interface",
+      "settings": {
+        "foreground": "#0078d7"
+      }
+    },
+    {
+      "scope": "support.delegate, entity.name.type.delegate",
+      "settings": {
+        "foreground": "#f59762"
+      }
+    },
+    {
       "scope": "support.struct, entity.name.type.struct",
       "settings": {
         "foreground": "#ff8c00"
