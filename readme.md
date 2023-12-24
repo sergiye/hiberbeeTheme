@@ -53,7 +53,7 @@ That's it, the installation is complete!
 
 #### Color Scheme
 
-![Code](https://github.com/sergiye/hiberbeeTheme/raw/master/HiberbeeTheme/code.png)
+![Code](https://github.com/sergiye/hiberbeeTheme/raw/master/assets/code.png)
 
 
 ### Font

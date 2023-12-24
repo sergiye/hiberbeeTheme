@@ -58,9 +58,6 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.8.2365" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="code.png">
-      <IncludeInVSIX>true</IncludeInVSIX>
-    </Content>
     <Content Include="Properties\Hiberbee.pkgdef">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
