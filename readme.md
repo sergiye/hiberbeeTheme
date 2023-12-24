@@ -51,6 +51,11 @@ It's very simple:
 That's it, the installation is complete!
 
 
+#### Color Scheme
+
+![Code](HiberbeeTheme/code.png)
+
+
 ### Font
 
 You may have noticed that the font does not match the original one. To solve this issue, you need to [download](https://www.jetbrains.com/lp/mono/) and install fonts from the official JetBrains website.
