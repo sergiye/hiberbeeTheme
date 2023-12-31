@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiberbeeTheme", "HiberbeeTheme\HiberbeeTheme.csproj", "{6D63008B-6B25-4B51-8088-8E889E20EB4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiberbeeTheme", "HiberbeeTheme\HiberbeeTheme.csproj", "{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +15,18 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6D63008B-6B25-4B51-8088-8E889E20EB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6D63008B-6B25-4B51-8088-8E889E20EB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6D63008B-6B25-4B51-8088-8E889E20EB4A}.Debug|arm64.ActiveCfg = Debug|arm64
-		{6D63008B-6B25-4B51-8088-8E889E20EB4A}.Debug|arm64.Build.0 = Debug|arm64
-		{6D63008B-6B25-4B51-8088-8E889E20EB4A}.Debug|x86.ActiveCfg = Debug|x86
-		{6D63008B-6B25-4B51-8088-8E889E20EB4A}.Debug|x86.Build.0 = Debug|x86
-		{6D63008B-6B25-4B51-8088-8E889E20EB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6D63008B-6B25-4B51-8088-8E889E20EB4A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6D63008B-6B25-4B51-8088-8E889E20EB4A}.Release|arm64.ActiveCfg = Release|arm64
-		{6D63008B-6B25-4B51-8088-8E889E20EB4A}.Release|arm64.Build.0 = Release|arm64
-		{6D63008B-6B25-4B51-8088-8E889E20EB4A}.Release|x86.ActiveCfg = Release|x86
-		{6D63008B-6B25-4B51-8088-8E889E20EB4A}.Release|x86.Build.0 = Release|x86
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Debug|arm64.ActiveCfg = Debug|arm64
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Debug|arm64.Build.0 = Debug|arm64
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Debug|x86.ActiveCfg = Debug|x86
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Debug|x86.Build.0 = Debug|x86
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Release|arm64.ActiveCfg = Release|arm64
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Release|arm64.Build.0 = Release|arm64
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Release|x86.ActiveCfg = Release|x86
+		{2B5B9EC9-229C-48A5-BA91-6A59CD5F0F2B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
