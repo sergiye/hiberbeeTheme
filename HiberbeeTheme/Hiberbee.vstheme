@@ -2772,10 +2772,10 @@
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="FileTabProvisionalSelectedActiveBorder">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF7160E8" />
       </Color>
       <Color Name="FileTabSelectedBorder">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF7160E8" />
       </Color>
       <Color Name="FileTabBackground">
         <Background Type="CT_RAW" Source="FF2D2D2D" />
@@ -3585,7 +3585,7 @@
         <Background Type="CT_RAW" Source="FF7D7AFF" />
       </Color>
       <Color Name="MainWindowActiveIconDebugging">
-        <Background Type="CT_RAW" Source="FFFFCD00" />
+        <Background Type="CT_RAW" Source="FFC85860" />
       </Color>
       <Color Name="MainWindowActiveIconDefault">
         <Background Type="CT_RAW" Source="FF7D7AFF" />
@@ -4531,7 +4531,7 @@
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="ResultListAccentBorder">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF7160E8" />
       </Color>
       <Color Name="ResultList">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
@@ -7363,7 +7363,7 @@
     <Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46501}">
       <Color Name="Collapsible Text (Collapsed)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFD866" />
+        <Foreground Type="CT_RAW" Source="FF767676" />
       </Color>
       <Color Name="Read-Only Region">
         <Background Type="CT_RAW" Source="FF5A5A5A" />
