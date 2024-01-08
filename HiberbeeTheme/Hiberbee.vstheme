@@ -2748,7 +2748,7 @@
         <Background Type="CT_RAW" Source="FF252526" />
       </Color>
       <Color Name="FileTabInactiveBorder">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF7160E8" />
       </Color>
       <Color Name="FileTabInactiveDocumentBorderEdge">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -2802,7 +2802,7 @@
         <Background Type="CT_RAW" Source="FF2D2D2D" />
       </Color>
       <Color Name="FileTabProvisionalSelectedInactiveBorder">
-        <Background Type="CT_RAW" Source="FF2D2D2D" />
+        <Background Type="CT_RAW" Source="FF7160E8" />
       </Color>
       <Color Name="AutoHideTabText">
         <Background Type="CT_RAW" Source="80FFFFFF" />
@@ -6215,7 +6215,7 @@
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF409CFF" />
+        <Foreground Type="CT_RAW" Source="FF569CD6" />
       </Color>
       <Color Name="constant name">
         <Background Type="CT_INVALID" Source="00000000" />
