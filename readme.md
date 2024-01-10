@@ -1,9 +1,11 @@
+[marketplace]: https://marketplace.visualstudio.com/items?itemName=SergiyEgoshyn.HiberbeeTheme
+[repo]: https://github.com/sergiye/hiberbeeTheme
+
 # Hiberbee Theme
 
-[![Version](https://vsmarketplacebadges.dev/version/SergiyEgoshyn.HiberbeeTheme.svg
-)](https://marketplace.visualstudio.com/items?itemName=SergiyEgoshyn.HiberbeeTheme)
-[![Installs](https://vsmarketplacebadges.dev/installs/SergiyEgoshyn.HiberbeeTheme.svg)](https://marketplace.visualstudio.com/items?itemName=SergiyEgoshyn.HiberbeeTheme)
-[![Rating](https://vsmarketplacebadges.dev/rating-short/SergiyEgoshyn.HiberbeeTheme.svg)](https://marketplace.visualstudio.com/items?itemName=SergiyEgoshyn.HiberbeeTheme)
+[![Version](https://vsmarketplacebadges.dev/version/SergiyEgoshyn.HiberbeeTheme.svg)][marketplace]
+[![Installs](https://vsmarketplacebadges.dev/installs/SergiyEgoshyn.HiberbeeTheme.svg)][marketplace]
+[![Rating](https://vsmarketplacebadges.dev/rating-short/SergiyEgoshyn.HiberbeeTheme.svg)][marketplace]
 [![Stars](https://img.shields.io/github/stars/sergiye/hiberbeeTheme?style=flat-square)](https://github.com/sergiye/hiberbeeTheme/stargazers)
 [![Fork](https://img.shields.io/github/forks/sergiye/hiberbeeTheme?style=flat-square)](https://github.com/sergiye/hiberbeeTheme/fork)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sergiye/hiberbeeTheme?style=flat-square)
@@ -28,7 +30,7 @@ Support the Armed Forces of Ukraine and People Affected by Russia’s Aggression
 
 ## Download Latest Version
 
-The latest stable version can be downloaded from the VisualStudio [marketplace](https://marketplace.visualstudio.com/items?itemName=SergiyEgoshyn.HiberbeeTheme) page, or get the newest one manually directly from this sources.
+The latest stable version can be downloaded from the VisualStudio [marketplace][marketplace] page, or get the newest one manually directly from this sources.
 
 
 # Build
@@ -68,13 +70,13 @@ In the Font field, select one of the JetBrains fonts (I highly recommend JetBrai
 
 ----
 
-## License
+## How can I help?
 
-This is free software: you can redistribute it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+If you enjoy using the extension, please give it a ★★★★★ rating on the [Visual Studio Marketplace][marketplace].
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+Should you encounter bugs or if you have feature requests, head on over to the [GitHub repo][repo] to open an issue if one doesn't already exist.
 
-You should have received a copy of the GNU General Public License  along with this program.  If not, see http://www.gnu.org/licenses/.
+Pull requests are also very welcome, since I can't always get around to fixing all bugs myself. This is a personal passion project, so my time is limited.
 
 
 ## Conclusion
@@ -84,14 +86,3 @@ Initially, I did this theme extension for myself and as an experiment and did no
 Thank you for installing and have a nice day!
 
 
-## Donate
-
-<a href=https://www.buymeacoffee.com/sergiye>
-<img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" />
-</a>
-
-**If you like the program, you can support the author and transfer money to**
-- Card number: 5169 3600 1644 3834 (https://easypay.ua/moneytransfer/transfer2card?id=99445709)
-- IBAN number: UA113052990000026208909644481
-
-OR you can support Ukraine any way you like it ;)
