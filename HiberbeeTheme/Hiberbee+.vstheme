@@ -1453,10 +1453,10 @@
         <Background Type="CT_RAW" Source="FF171615" />
       </Color>
       <Color Name="InnerTabActiveIndicator">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FFFFCD00" />
       </Color>
       <Color Name="InnerTabSelectedIndicator">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FFFFCD00" />
       </Color>
       <Color Name="TitleText">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -1486,7 +1486,7 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="InnerTabActiveText">
-        <Background Type="CT_RAW" Source="FFFAFAFA" />
+        <Background Type="CT_RAW" Source="FFFFCD00" />
       </Color>
       <Color Name="InnerTabBackground">
         <Background Type="CT_RAW" Source="00FFFFFF" />
@@ -1543,7 +1543,7 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="InnerTabSelectedText">
-        <Background Type="CT_RAW" Source="FFFAFAFA" />
+        <Background Type="CT_RAW" Source="FFFFCD00" />
       </Color>
       <Color Name="InnerTabText">
         <Background Type="CT_RAW" Source="FFFAFAFA" />
@@ -4841,12 +4841,12 @@
         <Foreground Type="CT_RAW" Source="FFCFCECD" />
       </Color>
       <Color Name="MouseOverCategoryTab">
-        <Background Type="CT_RAW" Source="FF272625" />
+        <Background Type="CT_RAW" Source="FF3C3C3C" />
         <Foreground Type="CT_RAW" Source="FFCFCECD" />
       </Color>
       <Color Name="SelectedCategoryTab">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
-        <Foreground Type="CT_RAW" Source="FFCFCECD" />
+        <Background Type="CT_RAW" Source="FF094771" />
+        <Foreground Type="CT_RAW" Source="FFFFCD00" />
       </Color>
       <Color Name="Background">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
