@@ -6139,7 +6139,7 @@
       </Color>
       <Color Name="outlining.verticalrule">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF5A5A5A" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="brace matching">
         <Background Type="CT_RAW" Source="FF141D12" />
@@ -6151,7 +6151,7 @@
       </Color>
       <Color Name="OverviewMarginCaret">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF214283" />
+        <Foreground Type="CT_RAW" Source="FF7160E8" />
       </Color>
       <Color Name="OverviewMarginBackground">
         <Background Type="CT_RAW" Source="FF171615" />
@@ -6159,7 +6159,7 @@
       </Color>
       <Color Name="OverviewMarginScrollButtons">
         <Background Type="CT_RAW" Source="FF171615" />
-        <Foreground Type="CT_RAW" Source="FF868999" />
+        <Foreground Type="CT_RAW" Source="FF7160E8" />
       </Color>
       <Color Name="OverviewMarginScrollButtonsMouseOver">
         <Background Type="CT_RAW" Source="FF171615" />
