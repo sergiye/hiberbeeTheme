@@ -44,8 +44,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="Hiberbee+.vstheme" />
-    <None Include="Hiberbee.vstheme" />
+    <None Include="Hiberbee+.vstheme">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Hiberbee.vstheme">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
