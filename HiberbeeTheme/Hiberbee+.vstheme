@@ -6980,7 +6980,7 @@
       </Color>
       <Color Name="Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB6B3EB" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7129,8 +7129,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="brace matching">
-        <Background Type="CT_RAW" Source="FF141D12" />
-        <Foreground Type="CT_RAW" Source="FF888888" />
+        <Background Type="CT_RAW" Source="FF0E4583" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="brace pair level one">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7410,7 +7410,7 @@
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FF00A693" />
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
