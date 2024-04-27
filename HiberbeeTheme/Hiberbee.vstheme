@@ -5364,11 +5364,11 @@
     </Category>
     <Category Name="Package Manager Console" GUID="{f9d6bce6-c669-41db-8ee7-dd953828685b}">
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF171615" />
+        <Foreground Type="CT_RAW" Source="FFCFCECD" />
       </Color>
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FFE6E7E8" />
+        <Background Type="CT_RAW" Source="FF171615" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="Selected Text">
