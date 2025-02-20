@@ -19,13 +19,13 @@ Design is available and maintained in Figma [template](https://www.figma.com/fil
 
 ----
 
-![Ukrainian Flag](https://github.com/sergiye/hiberbeeTheme/raw/master/assets/ukraine_flag_bar.png)
+[<img src="https://github.com/sergiye/hiberbeeTheme/raw/master/assets/ukraine_flag_bar.png" alt="UA"/>](https://u24.gov.ua)
 
 Support the Armed Forces of Ukraine and People Affected by Russia’s Aggression on UNITED24, the official fundraising platform of Ukraine: https://u24.gov.ua.
 
 **Слава Україні!**
 
-![Ukrainian Flag](https://github.com/sergiye/hiberbeeTheme/raw/master/assets/ukraine_flag_bar.png)
+[<img src="https://github.com/sergiye/hiberbeeTheme/raw/master/assets/ukraine_flag_bar.png" alt="UA"/>](https://u24.gov.ua)
 
 
 ## Download Latest Version
