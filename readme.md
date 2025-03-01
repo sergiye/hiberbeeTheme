@@ -3,12 +3,12 @@
 
 # Hiberbee Theme
 
-[![Version](https://vsmarketplacebadges.dev/version/SergiyEgoshyn.HiberbeeTheme.svg)][marketplace]
-[![Installs](https://vsmarketplacebadges.dev/installs/SergiyEgoshyn.HiberbeeTheme.svg)][marketplace]
-[![Rating](https://vsmarketplacebadges.dev/rating-short/SergiyEgoshyn.HiberbeeTheme.svg)][marketplace]
-[![Stars](https://img.shields.io/github/stars/sergiye/hiberbeeTheme?style=flat-square)](https://github.com/sergiye/hiberbeeTheme/stargazers)
-[![Fork](https://img.shields.io/github/forks/sergiye/hiberbeeTheme?style=flat-square)](https://github.com/sergiye/hiberbeeTheme/fork)
-![GitHub last commit](https://img.shields.io/github/last-commit/sergiye/hiberbeeTheme?style=flat-square)
+[![Version](https://vsmarketplacebadges.dev/version/SergiyEgoshyn.HiberbeeTheme.svg?style=for-the-badge&color=007EC6)][marketplace]
+[![Installs](https://vsmarketplacebadges.dev/installs/SergiyEgoshyn.HiberbeeTheme.svg?style=for-the-badge&color=ff4f42)][marketplace]
+[![Rating](https://vsmarketplacebadges.dev/rating-short/SergiyEgoshyn.HiberbeeTheme.svg?style=for-the-badge)][marketplace]
+![Last commit](https://img.shields.io/github/last-commit/sergiye/hiberbeeTheme?style=for-the-badge&color=00AD00)
+<!-- [![Stars](https://img.shields.io/github/stars/sergiye/hiberbeeTheme?style=for-the-badge)](https://github.com/sergiye/hiberbeeTheme/stargazers) -->
+<!-- [![Forks](https://img.shields.io/github/forks/sergiye/hiberbeeTheme?style=for-the-badge)](https://github.com/sergiye/hiberbeeTheme/forks) -->
 
 *Hiberbee Theme is a Visual Studio (2022) extension with Hiberbee dark theme*
 
