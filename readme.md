@@ -1,14 +1,11 @@
 [marketplace]: https://marketplace.visualstudio.com/items?itemName=SergiyEgoshyn.HiberbeeTheme
-[repo]: https://github.com/sergiye/hiberbeeTheme
 
 # Hiberbee Theme
 
-[![Version](https://vsmarketplacebadges.dev/version/SergiyEgoshyn.HiberbeeTheme.svg?style=for-the-badge&color=007EC6)][marketplace]
-[![Installs](https://vsmarketplacebadges.dev/installs/SergiyEgoshyn.HiberbeeTheme.svg?style=for-the-badge&color=ff4f42)][marketplace]
-[![Rating](https://vsmarketplacebadges.dev/rating-short/SergiyEgoshyn.HiberbeeTheme.svg?style=for-the-badge)][marketplace]
-![Last commit](https://img.shields.io/github/last-commit/sergiye/hiberbeeTheme?style=for-the-badge&color=00AD00)
-<!-- [![Stars](https://img.shields.io/github/stars/sergiye/hiberbeeTheme?style=for-the-badge)](https://github.com/sergiye/hiberbeeTheme/stargazers) -->
-<!-- [![Forks](https://img.shields.io/github/forks/sergiye/hiberbeeTheme?style=for-the-badge)](https://github.com/sergiye/hiberbeeTheme/forks) -->
+[![Version](https://vsmarketplacebadges.dev/version/SergiyEgoshyn.HiberbeeTheme.svg?color=007EC6)][marketplace]
+[![Installs](https://vsmarketplacebadges.dev/installs/SergiyEgoshyn.HiberbeeTheme.svg?color=ff4f42)][marketplace]
+[![Rating](https://vsmarketplacebadges.dev/rating-short/SergiyEgoshyn.HiberbeeTheme.svg)][marketplace]
+![Last commit](https://img.shields.io/github/last-commit/sergiye/hiberbeeTheme?color=00AD00)
 
 *Hiberbee Theme is a Visual Studio (2022) extension with Hiberbee dark theme*
 
@@ -23,17 +20,7 @@ Design is available and maintained in Figma [template](https://www.figma.com/fil
 
 The latest stable version can be downloaded from the VisualStudio [marketplace][marketplace] page, or get the newest one manually directly from this sources.
 
-
-# Build
-
-**The recommended way to get the program is BUILD from source**
-- Install git, Visual Studio (2022 or higher)
-- `git clone https://github.com/sergiye/hiberbeeTheme.git`
-- build
-
-----
-
-### How To Use
+## How To Use
 
 It's very simple:
  - Download the latest version of extension from releases (or Visual Studio marketplace)(.vsix file).
@@ -44,12 +31,12 @@ It's very simple:
 That's it, the installation is complete!
 
 
-#### Color Scheme
+## Color Scheme
 
 ![Code](https://github.com/sergiye/hiberbeeTheme/raw/master/assets/code.png)
 
 
-### Font
+## Font
 
 You may have noticed that the font does not match the original one. To solve this issue, you need to [download](https://www.jetbrains.com/lp/mono/) and install fonts from the official JetBrains website.
 
