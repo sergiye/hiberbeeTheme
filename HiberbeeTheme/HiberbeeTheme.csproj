@@ -45,15 +45,10 @@
     <DeployExtension>False</DeployExtension>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="Hiberbee+.vstheme">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Hiberbee.vstheme">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="source.extension.vsixmanifest">
-      <SubType>Designer</SubType>
-    </None>
+    <None Include="Hiberbee.vstheme" SubType="Designer" />
+    <None Include="Hiberbee+.vstheme" SubType="Designer" />
+    <None Include="HiberbeeLight.vstheme" SubType="Designer" />
+    <None Include="source.extension.vsixmanifest" SubType="Designer" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.SDK" Version="17.13.40008" ExcludeAssets="runtime" />
