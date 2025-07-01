@@ -8972,7 +8972,7 @@
         <Foreground Type="CT_RAW" Source="FF92CAF4" />
       </Color>
       <Color Name="Peek Background">
-        <Background Type="CT_RAW" Source="FF001F33" />
+        <Background Type="CT_RAW" Source="FF252526" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek Background Unfocused">
@@ -9232,7 +9232,7 @@
         <Foreground Type="CT_RAW" Source="FF9B9B9B" />
       </Color>
       <Color Name="StickyScroll Background">
-        <Background Type="CT_RAW" Source="FF001F33" />
+        <Background Type="CT_RAW" Source="FF252526" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="StickyScrollLineHighlightFormat">
@@ -9555,7 +9555,7 @@
       </Color>
       <Color Name="Visible Whitespace">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF373735" />
+        <Foreground Type="CT_RAW" Source="FF808080" />
       </Color>
     </Category>
     <Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46501}">
