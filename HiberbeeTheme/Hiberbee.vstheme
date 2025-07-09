@@ -9555,7 +9555,7 @@
       </Color>
       <Color Name="Visible Whitespace">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF373735" />
+        <Foreground Type="CT_RAW" Source="FF808080" />
       </Color>
     </Category>
     <Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46501}">
