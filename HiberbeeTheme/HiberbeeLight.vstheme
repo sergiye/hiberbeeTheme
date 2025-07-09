@@ -687,6 +687,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/FindHighlight">
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
@@ -706,7 +707,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/SelectedTextInScrollBar">
-        <Foreground Type="CT_RAW" Source="FFD20F39" />
+        <Foreground Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="MarkerFormatDefinition/VerticalHighlight">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -722,6 +723,7 @@
         <Background Type="CT_AUTOMATIC" Source="00000000" />
       </Color>
       <Color Name="Matched Selected Text">
+        <Background Type="CT_RAW" Source="FFA2C6F9" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="mergeEditor.AcceptedLine">
@@ -4387,15 +4389,15 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
-        <Background Type="CT_RAW" Source="FFCDD0D9" />
+        <Background Type="CT_RAW" Source="FFA2C6F9" />
         <Foreground Type="CT_RAW" Source="FFEFF1F5" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
-        <Background Type="CT_RAW" Source="FFC0C3CE" />
+        <Background Type="CT_RAW" Source="FFA2C6F9" />
         <Foreground Type="CT_RAW" Source="FFEFF1F5" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedWrittenReference">
-        <Background Type="CT_RAW" Source="FFCDD0D9" />
+        <Background Type="CT_RAW" Source="FFA2C6F9" />
         <Foreground Type="CT_RAW" Source="FFEFF1F5" />
       </Color>
       <Color Name="MarkerFormatDefinition/ScopeHighlight">
@@ -13128,23 +13130,23 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/FindHighlight">
-        <Background Type="CT_RAW" Source="FF773800" />
+        <Background Type="CT_RAW" Source="FFA2C6F9" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
-        <Background Type="CT_RAW" Source="FF063A58" />
+        <Background Type="CT_RAW" Source="FFA2C6F9" />
         <Foreground Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
-        <Background Type="CT_RAW" Source="FF454444" />
+        <Background Type="CT_RAW" Source="FFA2C6F9" />
         <Foreground Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedWrittenReference">
-        <Background Type="CT_RAW" Source="FF063A58" />
+        <Background Type="CT_RAW" Source="FFA2C6F9" />
         <Foreground Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="MarkerFormatDefinition/ScopeHighlight">
-        <Background Type="CT_RAW" Source="FF0F202D" />
+        <Background Type="CT_RAW" Source="FFA2C6F9" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/ScrollBarComment">
@@ -13152,7 +13154,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/SelectedTextInScrollBar">
-        <Background Type="CT_RAW" Source="FFB2B2B2" />
+        <Background Type="CT_RAW" Source="FF606060" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/VerticalHighlight">
@@ -13172,7 +13174,7 @@
         <Foreground Type="CT_RAW" Source="FF569CD6" />
       </Color>
       <Color Name="Matched Selected Text">
-        <Background Type="CT_RAW" Source="FF3D3D3D" />
+        <Background Type="CT_RAW" Source="FFA2C6F9" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="mergeEditor.AcceptedLine">
