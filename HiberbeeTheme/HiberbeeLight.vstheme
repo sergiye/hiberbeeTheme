@@ -13307,11 +13307,11 @@
         <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="Peek Background">
-        <Background Type="CT_RAW" Source="FF001F33" />
+        <Background Type="CT_RAW" Source="FFDCE0E8" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek Background Unfocused">
-        <Background Type="CT_RAW" Source="FF252525" />
+        <Background Type="CT_RAW" Source="FFDCE0E8" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek Focused Border">
@@ -13567,7 +13567,7 @@
         <Foreground Type="CT_RAW" Source="FF9B9B9B" />
       </Color>
       <Color Name="StickyScroll Background">
-        <Background Type="CT_RAW" Source="FF001F33" />
+        <Background Type="CT_RAW" Source="FFDCE0E8" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="StickyScrollLineHighlightFormat">
