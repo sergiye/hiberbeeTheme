@@ -18,7 +18,7 @@
         <Foreground Type="CT_RAW" Source="FF4C4F69" />
       </Color>
       <Color Name="Hyperlink">
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HyperlinkActive">
         <Foreground Type="CT_RAW" Source="FF04A5E5" />
@@ -159,19 +159,19 @@
       </Color>
       <Color Name="axml - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="axml - attribute quotes">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="axml - attribute value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="axml - cdata section">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="axml - comment">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -195,7 +195,7 @@
       </Color>
       <Color Name="axml - resource url">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="axml - text">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -276,7 +276,7 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00A5E5" />
+        <Foreground Type="CT_RAW" Source="FF2BA6A2" />
       </Color>
       <Color Name="constant name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -454,7 +454,7 @@
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF007F7F" />
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -489,11 +489,11 @@
       </Color>
       <Color Name="HTML Attribute Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HTML Attribute Value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="HTML Comment">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -623,7 +623,7 @@
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF7287FD" />
+        <Foreground Type="CT_RAW" Source="FF7C79F6" />
       </Color>
       <Color Name="Logpoint - Advanced (Alert)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -765,7 +765,7 @@
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF06B025" />
       </Color>
       <Color Name="mismatched brace">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -824,7 +824,7 @@
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE64553" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="Peek Background">
         <Foreground Type="CT_INVALID" Source="00000000" />
@@ -866,7 +866,7 @@
       </Color>
       <Color Name="preprocessor text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="property name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -933,7 +933,7 @@
       </Color>
       <Color Name="record class name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00A5E5" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="record struct name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1801,7 +1801,7 @@
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1955,14 +1955,14 @@
       </Color>
       <Color Name="xml doc comment - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="xml doc comment - attribute quotes">
         <Background Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="xml doc comment - attribute value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="xml doc comment - cdata section">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2267,7 +2267,7 @@
         <Background Type="CT_RAW" Source="FF4C4F69" />
       </Color>
       <Color Name="Hyperlink">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HyperlinkDisabled">
         <Background Type="CT_RAW" Source="FF1E66F5" />
@@ -2854,13 +2854,13 @@
     </Category>
     <Category Name="CodeSenseControls" GUID="{de7b1121-99a4-4708-aedf-15f40c9b332f}">
       <Color Name="ActionLink">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="ActionLinkDisabled">
         <Background Type="CT_RAW" Source="FF1E66F5" />
       </Color>
       <Color Name="ActionLinkItem">
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="ActionLinkItemDisabled">
         <Foreground Type="CT_RAW" Source="FFA2A4A5" />
@@ -3313,7 +3313,7 @@
         <Background Type="CT_RAW" Source="FF4C4F69" />
       </Color>
       <Color Name="Hyperlink">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HyperlinkDisabled">
         <Background Type="CT_RAW" Source="FF1E66F5" />
@@ -3706,7 +3706,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="brace matching">
-        <Background Type="CT_RAW" Source="FFE3E5EB" />
+        <Background Type="CT_RAW" Source="FFA2C6F9" />
         <Foreground Type="CT_RAW" Source="FF7C7F93" />
       </Color>
       <Color Name="brace pair level one">
@@ -3851,7 +3851,7 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00A5E5" />
+        <Foreground Type="CT_RAW" Source="FF2BA6A2" />
       </Color>
       <Color Name="CodeAnalysisCurrentStatementSelection">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -3971,7 +3971,7 @@
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF74531F" />
+        <Foreground Type="CT_RAW" Source="FF66CDAA" />
       </Color>
       <Color Name="CppStringDelimiterCharacterSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -4155,11 +4155,11 @@
       </Color>
       <Color Name="HTML Attribute Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HTML Attribute Value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="HTML Comment">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -4319,7 +4319,7 @@
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF7287FD" />
+        <Foreground Type="CT_RAW" Source="FF7C79F6" />
       </Color>
       <Color Name="Logpoint - Advanced (Alert)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -4491,7 +4491,7 @@
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF06B025" />
       </Color>
       <Color Name="mismatched brace">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -4615,7 +4615,7 @@
       </Color>
       <Color Name="preprocessor text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="property name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -4635,7 +4635,7 @@
       </Color>
       <Color Name="Rainbow Brace level 3">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40a02b" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="Rainbow Brace level 4">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -4659,7 +4659,7 @@
       </Color>
       <Color Name="Rainbow Brace level 9">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40a02b" />
+        <Foreground Type="CT_RAW" Source="FF06B025" />
       </Color>
       <Color Name="RazorCode">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5799,7 +5799,7 @@
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5987,7 +5987,7 @@
       </Color>
       <Color Name="xml doc comment - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="xml doc comment - attribute quotes">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5995,7 +5995,7 @@
       </Color>
       <Color Name="xml doc comment - attribute value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="xml doc comment - cdata section">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6244,7 +6244,7 @@
         <Foreground Type="CT_RAW" Source="FF4C4F69" />
       </Color>
       <Color Name="AdvancedListItemLink">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="AdvancedListItemLinkHover">
         <Background Type="CT_RAW" Source="FF006CBE" />
@@ -6325,7 +6325,7 @@
         <Background Type="CT_RAW" Source="FFCCCEDB" />
       </Color>
       <Color Name="Hyperlink">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HyperlinkHover">
         <Background Type="CT_RAW" Source="FF04A5E5" />
@@ -6985,7 +6985,7 @@
         <Background Type="CT_RAW" Source="FF717171" />
       </Color>
       <Color Name="ControlLinkText">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="ControlLinkTextHover">
         <Background Type="CT_RAW" Source="FF4C4F69" />
@@ -7223,7 +7223,7 @@
         <Background Type="CT_RAW" Source="FFEFF1F5" />
       </Color>
       <Color Name="EditorExpansionLink">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="EditorExpansionText">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -7607,7 +7607,7 @@
         <Background Type="CT_RAW" Source="FFDEE1E7" />
       </Color>
       <Color Name="HelpHowDoIPaneLink">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HelpHowDoIPaneText">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -7616,7 +7616,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="HelpHowDoITaskLink">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HelpHowDoITaskText">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -7661,7 +7661,7 @@
         <Background Type="CT_RAW" Source="FF1B293E" />
       </Color>
       <Color Name="HelpSearchResultLinkSelected">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HelpSearchResultLinkUnselected">
         <Background Type="CT_RAW" Source="FF1E66F5" />
@@ -7931,7 +7931,7 @@
         <Background Type="CT_RAW" Source="FFFEFEFE" />
       </Color>
       <Color Name="PanelHyperlink">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="PanelHyperlinkDisabled">
         <Background Type="CT_RAW" Source="FF1E66F5" />
@@ -9638,7 +9638,7 @@
         <Foreground Type="CT_RAW" Source="FF4C4F69" />
       </Color>
       <Color Name="Hyperlink">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HyperlinkHover">
         <Background Type="CT_RAW" Source="FF04A5E5" />
@@ -9735,7 +9735,7 @@
         <Foreground Type="CT_RAW" Source="FF4C4F69" />
       </Color>
       <Color Name="NotificationBubbleHyperlink">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="NotificationBubbleWindowButton">
         <Background Type="CT_RAW" Source="FF7160E8" />
@@ -10187,13 +10187,13 @@
         <Background Type="CT_RAW" Source="FF4C4F69" />
       </Color>
       <Color Name="PopupControlMouseDownBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="261E66F5" />
+        <Background Type="CT_RAW" Source="261D66F5" />
       </Color>
       <Color Name="PopupControlMouseDownBackgroundGradientEnd">
         <Background Type="CT_RAW" Source="261E66F5" />
       </Color>
       <Color Name="PopupControlMouseDownBackgroundGradientMiddle1">
-        <Background Type="CT_RAW" Source="261E66F5" />
+        <Background Type="CT_RAW" Source="261D66F5" />
       </Color>
       <Color Name="PopupControlMouseDownBackgroundGradientMiddle2">
         <Background Type="CT_RAW" Source="261E66F5" />
@@ -11406,7 +11406,7 @@
       </Color>
       <Color Name="XAML Attribute">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00B7C3" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="XAML Attribute Quotes">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -11446,7 +11446,7 @@
       </Color>
       <Color Name="XAML Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFA8D76F" />
+        <Foreground Type="CT_RAW" Source="FF06B025" />
       </Color>
       <Color Name="XAML Processing Instruction">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -11458,7 +11458,7 @@
       </Color>
       <Color Name="XML Attribute">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00B7C3" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="XML Attribute Quotes">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -11486,7 +11486,7 @@
       </Color>
       <Color Name="XML Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFA8D76F" />
+        <Foreground Type="CT_RAW" Source="FF06B025" />
       </Color>
       <Color Name="XML Processing Instruction">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -11684,7 +11684,7 @@
       </Color>
       <Color Name="ReSharper Static Field Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEE82EE" />
+        <Foreground Type="CT_RAW" Source="FF66CDAA" />
       </Color>
       <Color Name="ReSharper Property Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -11696,11 +11696,11 @@
       </Color>
       <Color Name="ReSharper Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FF06B025" />
       </Color>
       <Color Name="ReSharper Static Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FF66CDAA" />
       </Color>
       <Color Name="ReSharper Operator Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -11896,7 +11896,7 @@
       </Color>
       <Color Name="ReSharper IL Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FF06B025" />
       </Color>
       <Color Name="ReSharper IL Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -11932,7 +11932,7 @@
       </Color>
       <Color Name="ReSharper C# Static Field Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEE82EE" />
+        <Foreground Type="CT_RAW" Source="FF66CDAA" />
       </Color>
       <Color Name="ReSharper C# Property Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -11940,11 +11940,11 @@
       </Color>
       <Color Name="ReSharper C# Static Property Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEE82EE" />
+        <Foreground Type="CT_RAW" Source="FF66CDAA" />
       </Color>
       <Color Name="ReSharper C# Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FF06B025" />
       </Color>
       <Color Name="ReSharper C# Accessor Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -11952,11 +11952,11 @@
       </Color>
       <Color Name="ReSharper C# Static Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FF66CDAA" />
       </Color>
       <Color Name="ReSharper C# Extension Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FF007F7F" />
       </Color>
       <Color Name="ReSharper C# Overloaded Operator">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -11972,7 +11972,7 @@
       </Color>
       <Color Name="ReSharper C# Static Class Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFADD8E6" />
+        <Foreground Type="CT_RAW" Source="FF66CDAA" />
       </Color>
       <Color Name="ReSharper C# Record Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -12396,7 +12396,7 @@
       </Color>
       <Color Name="ReSharper CSS attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEE82EE" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="ReSharper CSS property name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -12583,7 +12583,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="brace matching">
-        <Background Type="CT_RAW" Source="FF0E4583" />
+        <Background Type="CT_RAW" Source="FFA2C6F9" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="brace pair level one">
@@ -12724,7 +12724,7 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00A5E5" />
+        <Foreground Type="CT_RAW" Source="FF2BA6A2" />
       </Color>
       <Color Name="CodeAnalysisCurrentStatementSelection">
         <Background Type="CT_RAW" Source="FF501E00" />
@@ -12864,7 +12864,7 @@
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00A693" />
+        <Foreground Type="CT_RAW" Source="FF007F7F" />
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -12900,7 +12900,7 @@
       </Color>
       <Color Name="HTML Attribute Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0078D7" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HTML Attribute Value">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -12912,7 +12912,7 @@
       </Color>
       <Color Name="HTML Element Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF8839EF" />
+        <Foreground Type="CT_RAW" Source="FF06B025" />
       </Color>
       <Color Name="HTML Entity">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -13064,7 +13064,7 @@
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF8839EF" />
+        <Foreground Type="CT_RAW" Source="FF7C79F6" />
       </Color>
       <Color Name="Logpoint - Advanced (Alert)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -13232,11 +13232,11 @@
       </Color>
       <Color Name="Method">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FF06B025" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FF06B025" />
       </Color>
       <Color Name="mismatched brace">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -13356,14 +13356,14 @@
       </Color>
       <Color Name="property name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF7C79F6" />
+        <Foreground Type="CT_RAW" Source="FF8839EF" />
       </Color>
       <Color Name="punctuation">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="RazorCode">
-        <Background Type="CT_RAW" Source="FF505050" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="RazorComponentAttribute">
@@ -13380,7 +13380,7 @@
       </Color>
       <Color Name="RazorDirectiveAttribute">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFA699E6" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="RazorTagHelperAttribute">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -13764,7 +13764,7 @@
       </Color>
       <Color Name="xml doc comment - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0078D7" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="xml doc comment - attribute quotes">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -13792,7 +13792,7 @@
       </Color>
       <Color Name="xml doc comment - name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF8839EF" />
+        <Foreground Type="CT_RAW" Source="FF06B025" />
       </Color>
       <Color Name="xml doc comment - processing instruction">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -13808,7 +13808,7 @@
       </Color>
       <Color Name="xml literal - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="xml literal - attribute quotes">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -13924,7 +13924,7 @@
       </Color>
       <Color Name="Collapsible Text (Collapsed)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40A02B" />
+        <Foreground Type="CT_RAW" Source="FFFFC107" />
       </Color>
       <Color Name="Collapsible Text (Expanded)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -14115,7 +14115,7 @@
         <Background Type="CT_RAW" Source="FF4C4F69" />
       </Color>
       <Color Name="Hyperlink">
-        <Background Type="CT_RAW" Source="FF1E66F5" />
+        <Background Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HyperlinkDisabled">
         <Background Type="CT_RAW" Source="FF1E66F5" />
@@ -14352,13 +14352,13 @@
     </Category>
     <Category Name="UnthemedDialog" GUID="{d1fae935-144d-45a6-af9a-d615e3cd7b75}">
       <Color Name="Hyperlink">
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HyperlinkHover">
         <Foreground Type="CT_RAW" Source="FF04A5E5" />
       </Color>
       <Color Name="HyperlinkPressed">
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
     </Category>
     <Category Name="UserInformation" GUID="{b6d9f1fc-e422-4755-a014-3fb666d831dc}">
