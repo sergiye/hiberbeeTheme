@@ -2495,7 +2495,7 @@
       </Color>
       <Color Name="TabItemSelected">
         <Background Type="CT_RAW" Source="FF7160E8" />
-        <Foreground Type="CT_RAW" Source="FF7160E8" />
+        <Foreground Type="CT_RAW" Source="FF9CA0B0" />
       </Color>
       <Color Name="TabItemSelectedBorder">
         <Background Type="CT_RAW" Source="00000000" />
@@ -2681,7 +2681,7 @@
       </Color>
       <Color Name="SnapshotButtonHover">
         <Background Type="CT_RAW" Source="FF7160E8" />
-        <Foreground Type="CT_RAW" Source="FF7160E8" />
+        <Foreground Type="CT_RAW" Source="FF9CA0B0" />
       </Color>
       <Color Name="SnapshotDiffAddedText">
         <Foreground Type="CT_RAW" Source="FF4E8400" />
@@ -4167,7 +4167,7 @@
       </Color>
       <Color Name="HTML Element Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF7160E8" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="HTML Entity">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -4538,7 +4538,7 @@
         <Foreground Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="OverviewMarginBackground">
-        <Background Type="CT_RAW" Source="7FE6E9EF" />
+        <Background Type="CT_RAW" Source="FFDCE0E8" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OverviewMarginCaret">
@@ -6015,7 +6015,7 @@
       </Color>
       <Color Name="xml doc comment - name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF7160E8" />
+        <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="xml doc comment - processing instruction">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6639,7 +6639,7 @@
         <Background Type="CT_RAW" Source="FFE6E9EF" />
       </Color>
       <Color Name="ComboBoxFocusedBorder">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="ComboBoxFocusedButtonBackground">
         <Background Type="CT_RAW" Source="FFE6E9EF" />
@@ -6696,7 +6696,7 @@
         <Background Type="CT_RAW" Source="FFE6E9EF" />
       </Color>
       <Color Name="ComboBoxMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="ComboBoxMouseOverGlyph">
         <Background Type="CT_RAW" Source="FF4C4F69" />
@@ -14889,7 +14889,7 @@
         <Background Type="CT_RAW" Source="FF7160E8" />
       </Color>
       <Color Name="WelcomeExperienceButtonMouseoverBorder">
-        <Foreground Type="CT_RAW" Source="FF7160E8" />
+        <Foreground Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="WelcomeExperienceButtonMouseoverForeground">
         <Foreground Type="CT_RAW" Source="FFDCE0E8" />
@@ -14907,7 +14907,7 @@
         <Background Type="CT_RAW" Source="FF7160E8" />
       </Color>
       <Color Name="WelcomeExperienceDistinctButtonMousedownBorder">
-        <Foreground Type="CT_RAW" Source="FF7160E8" />
+        <Foreground Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="WelcomeExperienceDistinctButtonMousedownForeground">
         <Foreground Type="CT_RAW" Source="FFDCE0E8" />
@@ -14916,7 +14916,7 @@
         <Background Type="CT_RAW" Source="FF7160E8" />
       </Color>
       <Color Name="WelcomeExperienceDistinctButtonMouseoverBorder">
-        <Foreground Type="CT_RAW" Source="FF7160E8" />
+        <Foreground Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="WelcomeExperienceDistinctButtonMouseoverForeground">
         <Foreground Type="CT_RAW" Source="FFDCE0E8" />
