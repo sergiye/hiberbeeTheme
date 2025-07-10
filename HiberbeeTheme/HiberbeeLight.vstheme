@@ -8623,13 +8623,13 @@
         <Background Type="CT_RAW" Source="FFE51400" />
       </Color>
       <Color Name="VerticalResizeGripBegin">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FFBCC0CC" />
       </Color>
       <Color Name="VerticalResizeGripEnd">
-        <Background Type="CT_RAW" Source="FFDC8A78" />
+        <Background Type="CT_RAW" Source="FFBCC0CC" />
       </Color>
       <Color Name="VerticalResizeGripMiddle">
-        <Background Type="CT_RAW" Source="FFD20F39" />
+        <Background Type="CT_RAW" Source="FFBCC0CC" />
       </Color>
       <Color Name="VizSurfaceBrownDark">
         <Background Type="CT_RAW" Source="FF705829" />
@@ -10190,13 +10190,13 @@
         <Background Type="CT_RAW" Source="261D66F5" />
       </Color>
       <Color Name="PopupControlMouseDownBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="261E66F5" />
+        <Background Type="CT_RAW" Source="261D66F5" />
       </Color>
       <Color Name="PopupControlMouseDownBackgroundGradientMiddle1">
         <Background Type="CT_RAW" Source="261D66F5" />
       </Color>
       <Color Name="PopupControlMouseDownBackgroundGradientMiddle2">
-        <Background Type="CT_RAW" Source="261E66F5" />
+        <Background Type="CT_RAW" Source="261D66F5" />
       </Color>
       <Color Name="PopupControlMouseDownBorder">
         <Background Type="CT_RAW" Source="33DCE0E8" />
