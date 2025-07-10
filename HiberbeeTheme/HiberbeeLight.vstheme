@@ -394,6 +394,7 @@
         <Background Type="CT_AUTOMATIC" Source="00000000" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFEFF1F5" />
       </Color>
       <Color Name="data.tools.diff.add.line">
@@ -430,7 +431,7 @@
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF1E66F5" />
+        <Foreground Type="CT_RAW" Source="FF2FA2CC" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -4041,7 +4042,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_RAW" Source="FFC3C5CF" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFEFF1F5" />
       </Color>
       <Color Name="data.tools.diff.add.line">
@@ -4094,7 +4095,7 @@
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDD7878" />
+        <Foreground Type="CT_RAW" Source="FF2FA2CC" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -11578,7 +11579,7 @@
         <Foreground Type="CT_RAW" Source="FF818181" />
       </Color>
       <Color Name="ReSharper Current Line Highlight">
-        <Background Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Stack Trace Method">
@@ -12790,8 +12791,8 @@
         <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_RAW" Source="FF3B3A39" />
-        <Foreground Type="CT_RAW" Source="FF282828" />
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFEFF1F5" />
       </Color>
       <Color Name="data.tools.diff.add.line">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -12839,7 +12840,7 @@
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF99CCFF" />
+        <Foreground Type="CT_RAW" Source="FF2FA2CC" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_INVALID" Source="00000000" />
