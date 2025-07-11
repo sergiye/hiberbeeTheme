@@ -7143,7 +7143,7 @@
       </Color>
       <Color Name="String">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDF8E1D" />
+        <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="Text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7163,7 +7163,7 @@
       </Color>
       <Color Name="XAML Attribute Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDF8E1D" />
+        <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="XAML CData Section">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7203,7 +7203,7 @@
       </Color>
       <Color Name="XAML Text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDF8E1D" />
+        <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="XML Attribute">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7211,11 +7211,11 @@
       </Color>
       <Color Name="XML Attribute Quotes">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDF8E1D" />
+        <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="XML Attribute Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDF8E1D" />
+        <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="XML CData Section">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7717,7 +7717,7 @@
       </Color>
       <Color Name="HTML Attribute Value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDF8E1D" />
+        <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="HTML Comment">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7881,7 +7881,7 @@
       </Color>
       <Color Name="Literal">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDF8E1D" />
+        <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8181,7 +8181,7 @@
       </Color>
       <Color Name="preprocessor text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDF8E1D" />
+        <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="property name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8201,7 +8201,7 @@
       </Color>
       <Color Name="Rainbow Brace level 3">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFC107" />
+        <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="Rainbow Brace level 4">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9481,7 +9481,7 @@
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDF8E1D" />
+        <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9697,7 +9697,7 @@
       </Color>
       <Color Name="xml doc comment - attribute value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDF8E1D" />
+        <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="xml doc comment - cdata section">
         <Background Type="CT_INVALID" Source="00000000" />
