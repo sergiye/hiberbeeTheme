@@ -7624,23 +7624,23 @@
         <Foreground Type="CT_RAW" Source="FFF59762" />
       </Color>
       <Color Name="deltadiff.add.line">
-        <Background Type="CT_RAW" Source="FF15352C" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFEBF1DD" />
+        <Foreground Type="CT_INVALID" Source="00FFFFFF" />
       </Color>
       <Color Name="deltadiff.add.word">
-        <Background Type="CT_RAW" Source="FF265E4D" />
+        <Background Type="CT_RAW" Source="FFD7E3BC" />
         <Foreground Type="CT_RAW" Source="FF76923C" />
       </Color>
       <Color Name="deltadiff.overview.color">
-        <Background Type="CT_RAW" Source="FF252925" />
-        <Foreground Type="CT_RAW" Source="FF424042" />
+        <Background Type="CT_RAW" Source="FFE6E7E8" />
+        <Foreground Type="CT_RAW" Source="FF79797A" />
       </Color>
       <Color Name="deltadiff.remove.line">
-        <Background Type="CT_RAW" Source="FF2D0000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFFCCCC" />
+        <Foreground Type="CT_INVALID" Source="00FFFFFF" />
       </Color>
       <Color Name="deltadiff.remove.word">
-        <Background Type="CT_RAW" Source="FF3C0000" />
+        <Background Type="CT_RAW" Source="FFFF9999" />
         <Foreground Type="CT_RAW" Source="FFFF6666" />
       </Color>
       <Color Name="Dynamic Program Analysis Highlighter (Issue frame)">
