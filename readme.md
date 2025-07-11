@@ -12,7 +12,7 @@
 - `Hiberbee` - the original jetbrains-version colors
 - `Hiberbee+` - my improvements (colored extensions methods, enum values etc)
 - `Hiberbee-` - experimental version (lighter background)
-- `HiberbeeLight` - light version (beta)
+- `HiberbeeLight` - light version
 
 Vivid, color-intensive dark theme for Visual Studio IDE with consolidated color code for all programming languages.
 Features:
