@@ -7171,7 +7171,7 @@
       </Color>
       <Color Name="XAML Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="XAML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7223,7 +7223,7 @@
       </Color>
       <Color Name="XML Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="XML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7565,7 +7565,7 @@
       </Color>
       <Color Name="CSS Comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="CSS Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8281,7 +8281,7 @@
       </Color>
       <Color Name="regex - comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="regex - grouping">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8701,7 +8701,7 @@
       </Color>
       <Color Name="ReSharper IL Comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="ReSharper IL Constant Literal">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8749,7 +8749,7 @@
       </Color>
       <Color Name="ReSharper Injected Language Comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="ReSharper Injected Language Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8989,7 +8989,7 @@
       </Color>
       <Color Name="ReSharper Regex Comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="ReSharper Regex Escape Character 1">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9625,7 +9625,7 @@
       </Color>
       <Color Name="VBScript Comment">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="VBScript Function Block Start">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -9685,7 +9685,7 @@
       </Color>
       <Color Name="XML Doc Comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="xml doc comment - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9729,7 +9729,7 @@
       </Color>
       <Color Name="XML Doc Tag">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="xml literal - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
