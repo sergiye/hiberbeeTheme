@@ -63,26 +63,26 @@
     </Category>
     <Category Name="Autos" GUID="{a7ee6bee-d0aa-4b2f-ad9d-748276a725f6}">
       <Color Name="ChangedText">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00FFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFFF0000" />
       </Color>
       <Color Name="Plain Text">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00FFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="SelectedText">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00FFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
     </Category>
     <Category Name="CallStack" GUID="{fd2219af-ebf8-4116-a801-3b503c48dff0}">
       <Color Name="SelectedText">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00FFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Text">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00FFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
     </Category>
     <Category Name="Cider" GUID="{92d153ee-57d7-431f-a739-0931ca3f7f70}">
@@ -6473,13 +6473,13 @@
         <Background Type="CT_RAW" Source="FFC9DEF5" />
       </Color>
       <Color Name="VideoRSSItemPressed">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FF7C79F6" />
       </Color>
       <Color Name="VideoRSSItemTitle">
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="VideoRSSItemTitleMouseOver">
-        <Foreground Type="CT_RAW" Source="FF7160E8" />
+        <Foreground Type="CT_RAW" Source="FF7C79F6" />
       </Color>
       <Color Name="VideoRSSItemTitlePressed">
         <Foreground Type="CT_RAW" Source="FF77AAFF" />
@@ -8104,7 +8104,7 @@
         <Foreground Type="CT_RAW" Source="FF606060" />
       </Color>
       <Color Name="OverviewMarginBackground">
-        <Background Type="CT_RAW" Source="FFDCE0E8" />
+        <Background Type="CT_RAW" Source="FFE6E6E6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OverviewMarginCaret">
@@ -8136,12 +8136,12 @@
         <Foreground Type="CT_RAW" Source="FF1D66F5" />
       </Color>
       <Color Name="Peek Background">
-        <Background Type="CT_RAW" Source="FFDCE0E8" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFF2F8FC" />
+        <Foreground Type="CT_INVALID" Source="00FFFFFF" />
       </Color>
       <Color Name="Peek Background Unfocused">
-        <Background Type="CT_RAW" Source="FFDCE0E8" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFE6E6E6" />
+        <Foreground Type="CT_INVALID" Source="00FFFFFF" />
       </Color>
       <Color Name="Peek Focused Border">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9468,8 +9468,8 @@
         <Foreground Type="CT_RAW" Source="FF9B9B9B" />
       </Color>
       <Color Name="StickyScroll Background">
-        <Background Type="CT_RAW" Source="FFDCE0E8" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFE6E6E6" />
+        <Foreground Type="CT_INVALID" Source="00FFFFFF" />
       </Color>
       <Color Name="StickyScrollLineHighlightFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9778,24 +9778,24 @@
     </Category>
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF0F43A6" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFBFCDDB" />
+        <Foreground Type="CT_INVALID" Source="00FFFFFF" />
       </Color>
       <Color Name="Indicator Margin">
-        <Background Type="CT_RAW" Source="FFDCE0E8" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFE6E7E8" />
+        <Foreground Type="CT_INVALID" Source="00FFFFFF" />
       </Color>
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FFF2F2F2" />
-        <Foreground Type="CT_RAW" Source="FF4C4F69" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF3084FF" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF0078D7" />
+        <Foreground Type="CT_INVALID" Source="00FFFFFF" />
       </Color>
       <Color Name="Visible Whitespace">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF8C8FA1" />
+        <Background Type="CT_INVALID" Source="00FFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF2B91AF" />
       </Color>
     </Category>
     <Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46501}">
