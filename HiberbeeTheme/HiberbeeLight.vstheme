@@ -7183,7 +7183,7 @@
       </Color>
       <Color Name="XAML Markup Extension Class">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF2BA6A2" />
+        <Foreground Type="CT_RAW" Source="FF2B91AF" />
       </Color>
       <Color Name="XAML Markup Extension Parameter Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7195,7 +7195,7 @@
       </Color>
       <Color Name="XAML Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF06B025" />
+        <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="XAML Processing Instruction">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7235,7 +7235,7 @@
       </Color>
       <Color Name="XML Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF06B025" />
+        <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="XML Processing Instruction">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7409,15 +7409,15 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF2BA6A2" />
+        <Foreground Type="CT_RAW" Source="FF2B91AF" />
       </Color>
       <Color Name="CodeAnalysisCurrentStatementSelection">
         <Background Type="CT_RAW" Source="FF501E00" />
         <Foreground Type="CT_RAW" Source="FFFF0000" />
       </Color>
       <Color Name="CodeAnalysisKeyEventSelection">
-        <Background Type="CT_RAW" Source="FF6E5000" />
-        <Foreground Type="CT_RAW" Source="FF6E5000" />
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF0078D7" />
       </Color>
       <Color Name="CodeAnalysisLineTraceSelection">
         <Background Type="CT_RAW" Source="FF333333" />
@@ -7453,7 +7453,7 @@
       </Color>
       <Color Name="CppEventSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF0078D7" />
       </Color>
       <Color Name="CppFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7513,7 +7513,7 @@
       </Color>
       <Color Name="CppParameterSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF808080" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="CppPropertySemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7661,7 +7661,7 @@
       </Color>
       <Color Name="event name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="ff0078D7" />
       </Color>
       <Color Name="Excluded Code">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7725,7 +7725,7 @@
       </Color>
       <Color Name="HTML Element Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF06B025" />
+        <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="HTML Entity">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8053,11 +8053,11 @@
       </Color>
       <Color Name="Method">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF06B025" />
+        <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF06B025" />
+        <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="mismatched brace">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8225,7 +8225,7 @@
       </Color>
       <Color Name="Rainbow Brace level 9">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF06B025" />
+        <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="RazorCode">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8237,7 +8237,7 @@
       </Color>
       <Color Name="RazorComponentElement">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF06B025" />
+        <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="RazorDirective">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -8253,7 +8253,7 @@
       </Color>
       <Color Name="RazorTagHelperElement">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF06B025" />
+        <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="RazorTransition">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -8333,7 +8333,7 @@
       </Color>
       <Color Name="ReSharper ASP.NET Route Template Parameter">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF62CCFF" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="ReSharper ASP.NET Route Template Token Substitution">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8393,7 +8393,7 @@
       </Color>
       <Color Name="ReSharper C# Event Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDDA0DD" />
+        <Foreground Type="CT_RAW" Source="FF0078D7" />
       </Color>
       <Color Name="ReSharper C# Extension Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8425,7 +8425,7 @@
       </Color>
       <Color Name="ReSharper C# Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF06B025" />
+        <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="ReSharper C# Mutable Local Variable Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8489,11 +8489,11 @@
       </Color>
       <Color Name="ReSharper C# Tuple Component Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF2BA6A2" />
+        <Foreground Type="CT_RAW" Source="FF2B91AF" />
       </Color>
       <Color Name="ReSharper C# Type Parameter Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEA76CB" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="ReSharper Class Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8621,7 +8621,7 @@
       </Color>
       <Color Name="ReSharper Event Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDDA0DD" />
+        <Foreground Type="CT_RAW" Source="FF0078D7" />
       </Color>
       <Color Name="ReSharper Field Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8721,7 +8721,7 @@
       </Color>
       <Color Name="ReSharper IL Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF06B025" />
+        <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="ReSharper IL Parameter Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8797,7 +8797,7 @@
       </Color>
       <Color Name="ReSharper JavaScript Block-Local Variable Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF7C79F6" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ReSharper JavaScript Function Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8841,7 +8841,7 @@
       </Color>
       <Color Name="ReSharper JsDoc Parameter or Property Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="ReSharper JsDoc Type Annotation">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8893,7 +8893,7 @@
       </Color>
       <Color Name="ReSharper Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF06B025" />
+        <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="ReSharper Missing Construct Hint">
         <Background Type="CT_RAW" Source="FF3D2D2D" />
@@ -8932,8 +8932,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Parameter Name Hint">
-        <Background Type="CT_RAW" Source="FF2D2F3D" />
-        <Foreground Type="CT_RAW" Source="FF8C8B6C" />
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="ReSharper Path Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9241,7 +9241,7 @@
       </Color>
       <Color Name="ReSharper Type Parameter Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEA76CB" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="ReSharper TypeScript Alias Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9269,7 +9269,7 @@
       </Color>
       <Color Name="ReSharper TypeScript Type Parameter Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEA76CB" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="ReSharper TypeScript Variable Declaration Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9613,7 +9613,7 @@
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEA76CB" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="UnnecessaryCodeDiagnostic">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9717,7 +9717,7 @@
       </Color>
       <Color Name="xml doc comment - name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF06B025" />
+        <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="xml doc comment - processing instruction">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9729,7 +9729,7 @@
       </Color>
       <Color Name="XML Doc Tag">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF008000" />
+        <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="xml literal - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
