@@ -7501,7 +7501,7 @@
       </Color>
       <Color Name="CppNamespaceSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF8C00" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="CppNewDeleteSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7681,7 +7681,7 @@
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0078D7" />
+        <Foreground Type="CT_RAW" Source="FF0848C7" />
       </Color>
       <Color Name="FileLineClassificationFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7793,7 +7793,7 @@
       </Color>
       <Color Name="interface name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0848C7" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="json - array">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7865,7 +7865,7 @@
       </Color>
       <Color Name="LessCssNamespaceReferenceFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF8C00" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="LessCssVariableDeclarationClassificationFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7885,7 +7885,7 @@
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF7C79F6" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Logpoint - Advanced (Alert)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8069,7 +8069,7 @@
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF8C00" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="NavigableSymbolFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8401,7 +8401,7 @@
       </Color>
       <Color Name="ReSharper C# Field Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0078D7" />
+        <Foreground Type="CT_RAW" Source="FF0848C7" />
       </Color>
       <Color Name="ReSharper C# Interface Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8433,7 +8433,7 @@
       </Color>
       <Color Name="ReSharper C# Namespace Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF8C00" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ReSharper C# Overflow Checked Operation">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8625,7 +8625,7 @@
       </Color>
       <Color Name="ReSharper Field Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0078D7" />
+        <Foreground Type="CT_RAW" Source="FF0848C7" />
       </Color>
       <Color Name="ReSharper Format String Item">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8909,7 +8909,7 @@
       </Color>
       <Color Name="ReSharper Namespace Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF8C00" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ReSharper Navigation Highlight">
         <Background Type="CT_RAW" Source="FF483D8B" />
@@ -9309,15 +9309,15 @@
       </Color>
       <Color Name="ReSharper Xaml Field">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0078D7" />
+        <Foreground Type="CT_RAW" Source="FF0848C7" />
       </Color>
       <Color Name="ReSharper Xaml Implicit Field">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0078D7" />
+        <Foreground Type="CT_RAW" Source="FF0848C7" />
       </Color>
       <Color Name="ReSharper Xaml Namespace Alias">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF8C00" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ReSharper Xaml Predefined Element">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9337,7 +9337,7 @@
       </Color>
       <Color Name="ReSharper Xaml Template Field">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0078D7" />
+        <Foreground Type="CT_RAW" Source="FF0848C7" />
       </Color>
       <Color Name="ReSharper XML Fallback Attribute Value">
         <Background Type="CT_INVALID" Source="00000000" />
