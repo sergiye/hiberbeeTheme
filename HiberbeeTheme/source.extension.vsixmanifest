@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="HiberbeeTheme.5b8ec20c-e115-4646-a8f4-4710b4eee183" Version="1.85" Language="en-US" Publisher="Sergiy Egoshyn" />
+        <Identity Id="HiberbeeTheme.5b8ec20c-e115-4646-a8f4-4710b4eee183" Version="2.0" Language="en-US" Publisher="Sergiy Egoshyn" />
         <DisplayName>Hiberbee Theme</DisplayName>
         <Description xml:space="preserve">Hiberbee Theme for Visual Studio</Description>
         <MoreInfo>https://github.com/sergiye/hiberbeeTheme</MoreInfo>

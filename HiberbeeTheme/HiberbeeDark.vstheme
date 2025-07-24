@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Hiberbee" GUID="{c6bfd31f-9119-4113-b848-fd98f1f28a44}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="Hiberbee Dark" GUID="{c6bfd31f-9119-4113-b848-fd98f1f28a45}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF171615" />
@@ -1384,7 +1384,7 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="InnerTabActiveIndicator">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FFFFCD00" />
       </Color>
       <Color Name="InnerTabActiveText">
         <Background Type="CT_RAW" Source="FFFFCD00" />
@@ -1447,7 +1447,7 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="InnerTabSelectedIndicator">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FFFFCD00" />
       </Color>
       <Color Name="InnerTabSelectedText">
         <Background Type="CT_RAW" Source="FFFFCD00" />
@@ -3294,7 +3294,7 @@
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="FileTabProvisionalSelectedActiveBorder">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FFFFCD00" />
       </Color>
       <Color Name="FileTabProvisionalSelectedActiveForeground">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -3333,7 +3333,7 @@
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="FileTabSelectedBorder">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FFFFCD00" />
       </Color>
       <Color Name="FileTabSelectedGradientBottom">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -5157,7 +5157,7 @@
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="ResultListAccentBorder">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FFFFCD00" />
       </Color>
       <Color Name="ResultListBorder">
         <Background Type="CT_RAW" Source="FF333333" />
@@ -7127,7 +7127,7 @@
       </Color>
       <Color Name="XML Attribute Quotes">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF808080" />
+        <Foreground Type="CT_RAW" Source="FFFFD866" />
       </Color>
       <Color Name="XML Attribute Value">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7139,7 +7139,7 @@
       </Color>
       <Color Name="XML Comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_RAW" Source="FF57A64A" />
       </Color>
       <Color Name="XML Delimiter">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7159,7 +7159,7 @@
       </Color>
       <Color Name="XML Text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_RAW" Source="FF92CAF4" />
       </Color>
       <Color Name="XSLT Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8248,8 +8248,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="brace matching">
-        <Background Type="CT_RAW" Source="FF141D12" />
-        <Foreground Type="CT_RAW" Source="FF888888" />
+        <Background Type="CT_RAW" Source="FF0E4583" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="brace pair level one">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8505,7 +8505,7 @@
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF25022" />
+        <Foreground Type="CT_RAW" Source="FF99CCFF" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8689,7 +8689,7 @@
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEE7762" />
+        <Foreground Type="CT_RAW" Source="FFF25022" />
       </Color>
       <Color Name="label name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8969,7 +8969,7 @@
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFC66D" />
+        <Foreground Type="CT_RAW" Source="FF92CAF4" />
       </Color>
       <Color Name="Peek Background">
         <Background Type="CT_RAW" Source="FF001F33" />

@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="HiberbeeLight" GUID="{c6bfd31f-9119-4113-b848-fd98f1f28a47}" BaseGUID="{e39bddaf-0bdc-4a8c-901d-b7a7ade66e37}">
+  <Theme Name="Hiberbee Light" GUID="{c6bfd31f-9119-4113-b848-fd98f1f28a47}" BaseGUID="{e39bddaf-0bdc-4a8c-901d-b7a7ade66e37}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
