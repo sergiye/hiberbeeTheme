@@ -8077,7 +8077,7 @@
       </Color>
       <Color Name="Operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF04A5E5" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
