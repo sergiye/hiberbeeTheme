@@ -8505,7 +8505,7 @@
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF99CCFF" />
+        <Foreground Type="CT_RAW" Source="FF409CFF" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8513,7 +8513,7 @@
       </Color>
       <Color Name="event name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFF25022" />
       </Color>
       <Color Name="Excluded Code">
         <Background Type="CT_INVALID" Source="00000000" />
