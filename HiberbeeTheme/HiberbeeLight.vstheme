@@ -7269,15 +7269,15 @@
       </Color>
       <Color Name="brace pair level one">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEFB839" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="brace pair level three">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF65ADE5" />
+        <Foreground Type="CT_RAW" Source="FF007F0E" />
       </Color>
       <Color Name="brace pair level two">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF179299" />
+        <Foreground Type="CT_RAW" Source="FF7F0000" />
       </Color>
       <Color Name="BraceCompletionClosingBrace">
         <Background Type="CT_INVALID" Source="00000000" />
