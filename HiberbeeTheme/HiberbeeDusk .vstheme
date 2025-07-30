@@ -8513,7 +8513,7 @@
       </Color>
       <Color Name="event name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF25022" />
+        <Foreground Type="CT_RAW" Source="FFF59762" />
       </Color>
       <Color Name="Excluded Code">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8729,7 +8729,7 @@
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB6B3EB" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Logpoint - Advanced (Alert)">
         <Background Type="CT_INVALID" Source="00000000" />
