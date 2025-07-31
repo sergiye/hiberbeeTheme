@@ -7046,7 +7046,7 @@
         <Foreground Type="CT_RAW" Source="FF8C8FA1" />
       </Color>
       <Color Name="Error">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFD20F39" />
       </Color>
       <Color Name="Error">
@@ -7062,11 +7062,11 @@
         <Foreground Type="CT_RAW" Source="FFF25022" />
       </Color>
       <Color Name="Memory Address">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Memory Changed">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Memory Data">
@@ -7086,11 +7086,11 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Register Data Changed">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Register NAT">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="SQL Operator">
@@ -7126,99 +7126,99 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="XAML Attribute">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="XAML Attribute Quotes">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF8C8FA1" />
       </Color>
       <Color Name="XAML Attribute Value">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="XAML CData Section">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFC0D088" />
       </Color>
       <Color Name="XAML Comment">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="XAML Delimiter">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFFF6065" />
       </Color>
       <Color Name="XAML Keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF0078D7" />
       </Color>
       <Color Name="XAML Markup Extension Class">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF2B91AF" />
       </Color>
       <Color Name="XAML Markup Extension Parameter Name">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="XAML Markup Extension Parameter Value">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF7D7AFF" />
       </Color>
       <Color Name="XAML Name">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="XAML Processing Instruction">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFBBA08C" />
       </Color>
       <Color Name="XAML Text">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="XML Attribute">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="XML Attribute Quotes">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="XML Attribute Value">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="XML CData Section">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFE9D585" />
       </Color>
       <Color Name="XML Comment">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="XML Delimiter">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFFF6065" />
       </Color>
       <Color Name="XML Keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF0078D7" />
       </Color>
       <Color Name="XML Name">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF089110" />
       </Color>
       <Color Name="XML Processing Instruction">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFC8C8C8" />
       </Color>
       <Color Name="XML Text">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB32315" />
       </Color>
       <Color Name="XSLT Keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF0078D7" />
       </Color>
     </Category>
