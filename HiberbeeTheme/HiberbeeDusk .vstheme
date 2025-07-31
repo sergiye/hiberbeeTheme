@@ -7213,7 +7213,7 @@
       </Color>
       <Color Name="ReSharper SQL Stored Procedure">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB3725B" />
+        <Foreground Type="CT_RAW" Source="FFFF0000" />
       </Color>
       <Color Name="ReSharper SQL System Table">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7225,7 +7225,7 @@
       </Color>
       <Color Name="ReSharper SQL Operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF818181" />
+        <Foreground Type="CT_RAW" Source="FFFF0000" />
       </Color>
       <Color Name="ReSharper SQL String">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7444,7 +7444,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Injected Language Background">
-        <Background Type="CT_RAW" Source="FF3C3C3C" />
+        <Background Type="CT_RAW" Source="FF201F1E" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Async Boundary">
@@ -8081,11 +8081,11 @@
       </Color>
       <Color Name="ReSharper SQL Text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFFD866" />
       </Color>
       <Color Name="ReSharper SQL Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFEB7560" />
       </Color>
       <Color Name="ReSharper SQL Comment">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8093,11 +8093,11 @@
       </Color>
       <Color Name="ReSharper SQL Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF0078D7" />
       </Color>
       <Color Name="ReSharper SQL Number">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF0078D7" />
       </Color>
       <Color Name="ReSharper Stack Trace Suspicious Text">
         <Background Type="CT_INVALID" Source="00000000" />
