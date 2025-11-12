@@ -8,9 +8,10 @@
 [![Rating](https://vsmarketplacebadges.dev/rating-short/SergiyEgoshyn.HiberbeeTheme.svg)][marketplace]
 ![Last commit](https://img.shields.io/github/last-commit/sergiye/hiberbeeTheme?color=00AD00)
 
-*Hiberbee Theme is a Visual Studio (2022) extension with 3 dark themes & 1 light*
+*Hiberbee Theme is a Visual Studio (2022/2026) extension with 3 dark themes & 1 light*
 - `Hiberbee (Legacy)` - the original jetbrains-version colors
 - `Hiberbee Dark` - my improvements (colored extensions methods, enum values etc)
+- `Hiberbee Dusk` - same as Dark, but with lighter background
 - `Hiberbee Light` - light version
 
 Vivid, color-intensive dark theme for Visual Studio IDE with consolidated color code for all programming languages.
@@ -24,7 +25,7 @@ The latest stable version can be downloaded from the VisualStudio [marketplace][
 ## How To Use
 It's very simple:
  - Download the latest version of extension from Visual Studio marketplace (.vsix file).
- - Install the extension for your Visual Studio 2022.
+ - Install the extension for your Visual Studio.
  - Follow: **Tools > Theme > Hiberbee**.
  - Enjoy
 
