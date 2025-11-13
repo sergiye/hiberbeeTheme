@@ -1026,15 +1026,15 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FFE6E7E8" />
-        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
+        <Background Type="CT_RAW" Source="FF171615" />
+        <Foreground Type="CT_RAW" Source="FFCFCECD" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="40FFFFFF" />
+        <Background Type="CT_RAW" Source="FFC8BEB4" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Selected Text in High Contrast">
-        <Background Type="CT_RAW" Source="40FFFFFF" />
+        <Background Type="CT_RAW" Source="FFC8BEB4" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
