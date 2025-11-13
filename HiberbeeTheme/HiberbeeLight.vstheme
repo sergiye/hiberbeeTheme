@@ -5898,7 +5898,7 @@
         <Background Type="CT_RAW" Source="FF5649B0" />
       </Color>
       <Color Name="AccentFillDefault">
-        <Background Type="CT_RAW" Source="FF715C1D" />
+        <Background Type="CT_RAW" Source="FF1E394A" />
       </Color>
       <Color Name="AccentFillDisabled">
         <Background Type="CT_RAW" Source="37000000" />
@@ -6197,19 +6197,19 @@
     </Category>
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
       <Color Name="EnvironmentBackground">
-        <Background Type="CT_RAW" Source="FFEDE1BA" />
+        <Background Type="CT_RAW" Source="FFA7C6DB" />
       </Color>
       <Color Name="EnvironmentBadge">
         <Background Type="CT_RAW" Source="B2FFFFFF" />
       </Color>
       <Color Name="EnvironmentBorder">
-        <Background Type="CT_RAW" Source="FF715C1D" />
+        <Background Type="CT_RAW" Source="FF1E394A" />
       </Color>
       <Color Name="EnvironmentBorderInactive">
         <Background Type="CT_RAW" Source="66757575" />
       </Color>
       <Color Name="EnvironmentIndicator">
-        <Background Type="CT_RAW" Source="80715C1D" />
+        <Background Type="CT_RAW" Source="801E394A" />
       </Color>
       <Color Name="EnvironmentLayeredBackground">
         <Background Type="CT_RAW" Source="60FFFFFF" />
@@ -6218,7 +6218,7 @@
         <Background Type="CT_RAW" Source="0F000000" />
       </Color>
       <Color Name="EnvironmentLogo">
-        <Background Type="CT_RAW" Source="FF715C1D" />
+        <Background Type="CT_RAW" Source="FF1E394A" />
       </Color>
       <Color Name="StatusBarControlFill">
         <Background Type="CT_RAW" Source="20FFFFFF" />
