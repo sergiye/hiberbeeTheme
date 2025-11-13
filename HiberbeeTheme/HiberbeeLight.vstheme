@@ -8100,7 +8100,7 @@
         <Foreground Type="CT_RAW" Source="FF1C97EA" />
       </Color>
       <Color Name="OverviewMarginVisible">
-        <Background Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
         <Foreground Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="parameter name">
