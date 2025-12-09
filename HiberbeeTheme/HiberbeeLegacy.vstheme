@@ -3525,13 +3525,13 @@
         <Background Type="CT_RAW" Source="FF7160E8" />
       </Color>
       <Color Name="MainWindowActiveIconBuilding">
-        <Background Type="CT_RAW" Source="FFD6D6D6" />
+        <Background Type="CT_RAW" Source="FFFFCD00" />
       </Color>
       <Color Name="MainWindowActiveIconDebugging">
-        <Background Type="CT_RAW" Source="FFD6D6D6" />
+        <Background Type="CT_RAW" Source="FFC85860" />
       </Color>
       <Color Name="MainWindowActiveIconDefault">
-        <Background Type="CT_RAW" Source="FFD6D6D6" />
+        <Background Type="CT_RAW" Source="FF7D7AFF" />
       </Color>
       <Color Name="MainWindowActiveIconNoSolution">
         <Background Type="CT_RAW" Source="FF999999" />
@@ -3594,13 +3594,13 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="MainWindowInactiveIconBuilding">
-        <Background Type="CT_RAW" Source="66FFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCD00" />
       </Color>
       <Color Name="MainWindowInactiveIconDebugging">
-        <Background Type="CT_RAW" Source="66FFFFFF" />
+        <Background Type="CT_RAW" Source="FFC85860" />
       </Color>
       <Color Name="MainWindowInactiveIconDefault">
-        <Background Type="CT_RAW" Source="FF666666" />
+        <Background Type="CT_RAW" Source="FF7D7AFF" />
       </Color>
       <Color Name="MainWindowInactiveIconNoSolution">
         <Background Type="CT_RAW" Source="66FFFFFF" />
