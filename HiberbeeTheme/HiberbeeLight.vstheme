@@ -7059,7 +7059,7 @@
       </Color>
       <Color Name="Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0101FF" />
+        <Foreground Type="CT_RAW" Source="FFCE217A" />
       </Color>
       <Color Name="Memory Address">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7417,7 +7417,7 @@
       </Color>
       <Color Name="CppControlKeywordSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0101FF" />
+        <Foreground Type="CT_RAW" Source="FFCE217A" />
       </Color>
       <Color Name="CppEnumSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7817,7 +7817,7 @@
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF00DC" />
+        <Foreground Type="CT_RAW" Source="FFAF00DB" />
       </Color>
       <Color Name="label name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8149,7 +8149,7 @@
       </Color>
       <Color Name="Preprocessor Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0101FF" />
+        <Foreground Type="CT_RAW" Source="FFCE217A" />
       </Color>
       <Color Name="preprocessor text">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8381,7 +8381,7 @@
       </Color>
       <Color Name="ReSharper C# Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0101FF" />
+        <Foreground Type="CT_RAW" Source="FFCE217A" />
       </Color>
       <Color Name="ReSharper C# Late Bound Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8689,7 +8689,7 @@
       </Color>
       <Color Name="ReSharper IL Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0101FF" />
+        <Foreground Type="CT_RAW" Source="FFCE217A" />
       </Color>
       <Color Name="ReSharper IL Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8725,7 +8725,7 @@
       </Color>
       <Color Name="ReSharper Injected Language Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0101FF" />
+        <Foreground Type="CT_RAW" Source="FFCE217A" />
       </Color>
       <Color Name="ReSharper Injected Language Number">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8837,7 +8837,7 @@
       </Color>
       <Color Name="ReSharper Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0101FF" />
+        <Foreground Type="CT_RAW" Source="FFCE217A" />
       </Color>
       <Color Name="ReSharper LiveTemplates Current HotSpot">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9037,7 +9037,7 @@
       </Color>
       <Color Name="ReSharper SQL Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF00DC" />
+        <Foreground Type="CT_RAW" Source="FFAF00DB" />
       </Color>
       <Color Name="ReSharper SQL Number">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9045,11 +9045,11 @@
       </Color>
       <Color Name="ReSharper SQL Operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF00DC" />
+        <Foreground Type="CT_RAW" Source="FFAF00DB" />
       </Color>
       <Color Name="ReSharper SQL Stored Procedure">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF00DC" />
+        <Foreground Type="CT_RAW" Source="FFAF00DB" />
       </Color>
       <Color Name="ReSharper SQL String">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9117,7 +9117,7 @@
       </Color>
       <Color Name="ReSharper Template Editor C# Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0101FF" />
+        <Foreground Type="CT_RAW" Source="FFCE217A" />
       </Color>
       <Color Name="ReSharper Template Editor C# Preprocessor Directive">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9149,11 +9149,11 @@
       </Color>
       <Color Name="ReSharper Template Editor JavaScript Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0101FF" />
+        <Foreground Type="CT_RAW" Source="FFCE217A" />
       </Color>
       <Color Name="ReSharper Template Editor Template Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0101FF" />
+        <Foreground Type="CT_RAW" Source="FFCE217A" />
       </Color>
       <Color Name="ReSharper Text to Delete in Config File">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9609,7 +9609,7 @@
       </Color>
       <Color Name="VBScript Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0101FF" />
+        <Foreground Type="CT_RAW" Source="FFCE217A" />
       </Color>
       <Color Name="VBScript Number">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
