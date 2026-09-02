@@ -10,7 +10,6 @@
 
 *Hiberbee Theme is a Visual Studio (2022/2026) extension with 3 dark themes & 1 light*
 - `Hiberbee Dark` - my improvements (colored extensions methods, enum values etc)
-- `Hiberbee Dusk` - same as Dark, but with lighter background
 - `Hiberbee Legacy` - the original jetbrains-version colors
 - `Hiberbee Light` - light version
 
