@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Colors of Hiberbee Legacy that differ from Hiberbee Dark. HiberbeeLegacy.vstheme is generated from HiberbeeDark.vstheme at build time (see Generate-Legacy.ps1). -->
+<Overrides Name="Hiberbee Legacy" Guid="{c6bfd31f-9119-4113-b848-fd98f1f28a44}">
+  <Color Category="CommonDocument" Name="InnerTabActiveIndicator" Part="Background" Type="CT_RAW" Source="FF7160E8" />
+  <Color Category="CommonDocument" Name="InnerTabSelectedIndicator" Part="Background" Type="CT_RAW" Source="FF7160E8" />
+  <Color Category="Environment" Name="FileTabProvisionalSelectedActiveBorder" Part="Background" Type="CT_RAW" Source="FF7160E8" />
+  <Color Category="Environment" Name="FileTabSelectedBorder" Part="Background" Type="CT_RAW" Source="FF7160E8" />
+  <Color Category="NavigateTo" Name="ResultListAccentBorder" Part="Background" Type="CT_RAW" Source="FF7160E8" />
+  <Color Category="Text Editor Language Service Items" Name="XML Attribute Quotes" Part="Foreground" Type="CT_RAW" Source="FF808080" />
+  <Color Category="Text Editor Language Service Items" Name="XML Comment" Part="Foreground" Type="CT_RAW" Source="FFC8C8C8" />
+  <Color Category="Text Editor Language Service Items" Name="XML Text" Part="Foreground" Type="CT_RAW" Source="FFC8C8C8" />
+  <Color Category="Text Editor MEF Items" Name="brace matching" Part="Background" Type="CT_RAW" Source="FF141D12" />
+  <Color Category="Text Editor MEF Items" Name="brace matching" Part="Foreground" Type="CT_RAW" Source="FF888888" />
+  <Color Category="Text Editor MEF Items" Name="enum member name" Part="Foreground" Type="CT_RAW" Source="FFF25022" />
+  <Color Category="Text Editor MEF Items" Name="event name" Part="Foreground" Type="CT_RAW" Source="FFF25022" />
+  <Color Category="Text Editor MEF Items" Name="keyword - control" Part="Foreground" Type="CT_RAW" Source="FFEE7762" />
+  <Color Category="Text Editor MEF Items" Name="parameter name" Part="Foreground" Type="CT_RAW" Source="FFFFC66D" />
+  <Color Category="Text Editor MEF Items" Name="ReSharper Injected Language Background" Part="Background" Type="CT_RAW" Source="FF3C3C3C" />
+  <Color Category="Text Editor MEF Items" Name="ReSharper SQL Identifier" Part="Foreground" Type="CT_INVALID" Source="00000000" />
+  <Color Category="Text Editor MEF Items" Name="ReSharper SQL Keyword" Part="Foreground" Type="CT_INVALID" Source="00000000" />
+  <Color Category="Text Editor MEF Items" Name="ReSharper SQL Number" Part="Foreground" Type="CT_INVALID" Source="00000000" />
+  <Color Category="Text Editor MEF Items" Name="ReSharper SQL Operator" Part="Foreground" Type="CT_RAW" Source="FF818181" />
+  <Color Category="Text Editor MEF Items" Name="ReSharper SQL Stored Procedure" Part="Foreground" Type="CT_RAW" Source="FFB3725B" />
+  <Color Category="Text Editor MEF Items" Name="ReSharper SQL Text" Part="Foreground" Type="CT_INVALID" Source="00000000" />
+</Overrides>

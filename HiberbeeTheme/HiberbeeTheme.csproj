@@ -47,6 +47,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="*.vstheme" SubType="Designer" />
+    <None Include="Themes\*" />
     <None Include="source.extension.vsixmanifest" SubType="Designer" />
   </ItemGroup>
   <ItemGroup>
@@ -70,6 +71,9 @@
       <_ManifestText>$([System.Text.RegularExpressions.Regex]::Replace('$(_ManifestText)', '(&lt;Identity [^&gt;]*Version=&quot;)[^&quot;]*(&quot;)', '${1}$(BuildVersion)${2}'))</_ManifestText>
     </PropertyGroup>
     <WriteLinesToFile File="$(IntermediateVsixManifest)" Lines="$(_ManifestText)" Overwrite="true" />
+  </Target>
+  <Target Name="GenerateLegacyTheme" BeforeTargets="AddVsThemeFile;BeforeBuild">
+    <Exec Command="powershell -NoProfile -ExecutionPolicy Bypass -File &quot;$(MSBuildProjectDirectory)\Themes\Generate-Legacy.ps1&quot; -Base &quot;$(MSBuildProjectDirectory)\HiberbeeDark.vstheme&quot; -Overrides &quot;$(MSBuildProjectDirectory)\Themes\HiberbeeLegacy.overrides.xml&quot; -Output &quot;$(MSBuildProjectDirectory)\HiberbeeLegacy.vstheme&quot;" />
   </Target>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\VSSDK\Microsoft.VsSDK.targets" Condition="'$(VSToolsPath)' != ''" />
