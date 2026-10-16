@@ -3,9 +3,10 @@
     <Metadata>
         <Identity Id="HiberbeeTheme.5b8ec20c-e115-4646-a8f4-4710b4eee183" Version="2.18" Language="en-US" Publisher="Sergiy Egoshyn" />
         <DisplayName>Hiberbee Theme</DisplayName>
-        <Description xml:space="preserve">Hiberbee Theme for Visual Studio</Description>
+        <Description xml:space="preserve">Vivid, color-intensive themes for Visual Studio 2022/2026 with a consolidated color code for all programming languages. Includes three themes: Hiberbee Dark (extension methods, enum values and other elements highlighted with their own colors), Hiberbee Legacy (the original JetBrains-style colors) and Hiberbee Light.</Description>
         <MoreInfo>https://github.com/sergiye/hiberbeeTheme</MoreInfo>
         <Icon>icon.png</Icon>
+        <PreviewImage>code.png</PreviewImage>
         <Tags>Theme;Themes;Hiberbee;Dark;Night;Color;Scheme;2022;2026;</Tags>
     </Metadata>
     <Installation>
