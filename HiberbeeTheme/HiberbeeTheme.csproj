@@ -60,6 +60,19 @@
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
   </ItemGroup>
+  <PropertyGroup>
+    <BuildDays>$([System.Math]::Floor($([System.DateTime]::Now.Subtract($([System.DateTime]::new(2000, 1, 1))).TotalDays)))</BuildDays>
+    <BuildSeconds>$([System.Math]::Floor($([System.DateTime]::Now.TimeOfDay.TotalSeconds)))</BuildSeconds>
+    <BuildHalfSeconds>$([System.Math]::Floor($([MSBuild]::Divide($(BuildSeconds), 2))))</BuildHalfSeconds>
+    <BuildVersion>2.$(BuildDays).$(BuildHalfSeconds)</BuildVersion>
+  </PropertyGroup>
+  <Target Name="StampVsixManifestVersion" AfterTargets="DetokenizeVsixManifestFile">
+    <PropertyGroup>
+      <_ManifestText>$([System.IO.File]::ReadAllText('$(IntermediateVsixManifest)'))</_ManifestText>
+      <_ManifestText>$([System.Text.RegularExpressions.Regex]::Replace('$(_ManifestText)', '(&lt;Identity [^&gt;]*Version=&quot;)[^&quot;]*(&quot;)', '${1}$(BuildVersion)${2}'))</_ManifestText>
+    </PropertyGroup>
+    <WriteLinesToFile File="$(IntermediateVsixManifest)" Lines="$(_ManifestText)" Overwrite="true" />
+  </Target>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\VSSDK\Microsoft.VsSDK.targets" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup>
