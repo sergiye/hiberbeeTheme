@@ -8049,7 +8049,7 @@
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FF795E26" />
       </Color>
       <Color Name="outlining.chevron.collapsed">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -8409,7 +8409,7 @@
       </Color>
       <Color Name="ReSharper C# Overloaded Operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FF795E26" />
       </Color>
       <Color Name="ReSharper C# Parameter Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
